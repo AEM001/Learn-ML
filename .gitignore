@@ -1,0 +1,20 @@
+# ---- Project data & models ----
+# CIFAR-10 (torchvision original structure)
+CV/clip/cifar10/cifar-10-batches-py/
+# CIFAR-100 (torchvision original structure)
+CV/clip/cifar-100-python/
+
+# CLIP model weights cached in project
+CV/clip/.models/
+
+# ---- Notebooks ----
+**/.ipynb_checkpoints/
+
+# ---- Python ----
+**/__pycache__/
+*.pyc
+
+# ---- OS / Editors ----
+.DS_Store
+.idea/
+.vscode/
